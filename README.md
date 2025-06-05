@@ -1,1 +1,3 @@
 # Continuos-integration
+Juan Gallo
+ 
